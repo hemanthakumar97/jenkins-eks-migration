@@ -1,4 +1,4 @@
-# Jenkins Migration and Configuration Guide
+# Jenkins EKS Migration and Configuration Guide
 
 This guide provides step-by-step instructions to set up Jenkins on Kubernetes, configure it, install required plugins, manage backups, and set up authentication.
 
